@@ -11,20 +11,20 @@ border-radius: 20px;
 padding: 20px;
 
 }
-#imageright{
+.imageright{
     margin-left: 20px;  
    border: 2px solid #0a714e ;
     float: right;
 	margin-left: 20px;
 
 }
-#imageright img{
+.imageright img{
 width: 200px;
 border-top-left-radius: 20px;
 border-top-right-radius: 20px;
 }
 
-#imageleft{
+.imageleft{
     border-radius: 20px;
 margin-bottom: 80px ;
  margin-right: 30px;
